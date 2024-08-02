@@ -1,0 +1,12 @@
+﻿{0}, Your login OTP
+Your login otp is below - enter it in your login window and it will sign in.
+
+OTP: {1}
+
+IP Address: {2}
+
+If you didn't request this email, contact us at : support@dev.shiksha
+
+Demo Retail, Gujarat - 382330
+
+All rights reserved.

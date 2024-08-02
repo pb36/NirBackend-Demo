@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.vs/
+.idea/.idea.NirvedBackend/.idea/inspectionProfiles/Project_Default.xml
+private_key.pem
+.idea/.idea.NirvedBackend/.idea/material_theme_project_new.xml
+.idea/.idea.NirvedBackend/.idea/aws.xml
+/.idea
